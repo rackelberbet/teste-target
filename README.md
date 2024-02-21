@@ -1,7 +1,7 @@
 
 # Exercícios de Lógica de Programação
 
-    Repositório para armazenar os exercícios resolvidos como pré-requisito de avaliação (seleção de estágio).
+Repositório para armazenar os exercícios resolvidos como pré-requisito de avaliação (seleção de estágio).
 
 ## 📒 Sobre a solução dos exercícios:
    * JavaScript foi a linguagem de programação escolhida pela candidata para a resolução dos problemas propostos;
